@@ -1,4 +1,4 @@
-# app_dsa
+# College app
 
 A new Flutter project.
 
